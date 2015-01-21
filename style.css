@@ -1,0 +1,51 @@
+body{margin:0;padding:0;font-family:Arial;
+}
+
+
+.header_area{width:100%;height:90px;background-color:#3A5795;position:absolute;}
+.header_left h1{margin-top:23px;margin-left:185px;font-size:44px;color:white}
+a{text-decoration: none;}
+a:hover{text-decoration:underline;}
+.header_right{margin-left:805px;margin-top:-97px;}
+.gmail{width:143px;border-radius:3px;}
+.mail{font-size:12px;color:#f8fff8}
+.ymail{font-size:11px;color:#DFDFDF}
+.login{background-color:#3A5795;border-radius:4px;color:#fff;border-color:#3A5795;border-top-width:2px;}
+
+.slider{background-image:url(images/background.png);height:700px}
+
+.slid{width:975px;margin-left:190px;background-color:re}
+.fbmobile{width:50%;background-color:green;}
+.picture{position:absolute;margin-top:130px;margin-left:31px}
+.picture2{position:absolute;margin-top:179px;margin-left:162px}
+.heading{position:absolute;margin-top:125px;margin-left:192px;line-height:3px}
+.heading h3{font-size:22px;}
+.heading p{font-size:15px}
+
+.but{position:absolute;margin-left:165px;margin-top:37px}
+
+.sign_up{background-color:re;margin-left:590px;position:absolute;margin-top:95px;margin-right:175px
+}
+.milton{line-height:13px}
+.just{width:190px;height:31px;font-size:18px;border-radius:5px;background-color:#F0F0F0;color:#999}
+.mak{width: 388px;height:31px;border-radius:5px;font-size:18px;border-radius:5px;background-color:#fff;color:#999
+}
+.milt{line-height:47px
+}
+.birth{margin-top:-20px}
+.date{margin-top:-35px}
+.day{width:63px;height:30px;border-radius:3px}
+.month{width:51px;height:30px;border-radius:3px}
+.year{width:56px;height:30px;border-radius:3px}
+.why{margin-left:191px;margin-top:-38px;font-size:11px;line-height:16px;}
+a{color:#527CC2}
+.by{font-size:11px;line-height:21px;margin-top:-1px}
+.sign2{width: 172px;height:43px;background-color:#69A354;margin-top:16px;font-size:20px}
+button{border-radius:7px;}
+.page{font-size:14px;margin-top:5px}
+.bg{width:100%;background-color:#D6DBE9;height:60px;margin-top:-87px}
+.footer_area{width:975px;height:195px;margin-left:190px;font-size:12px}
+.footer_top ul{list-style:none;margin-left:-37px}
+.footer_top ul li{display:inline;}
+.footer_top ul li a{padding:0px 6px}
+.footer_down{margin-left:-4px}
